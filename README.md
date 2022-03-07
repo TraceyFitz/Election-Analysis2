@@ -30,7 +30,7 @@ Summary
     Diana DeGette received ""% of the vote and "" number of votes
     Raymon Anthony Doane received ""% of the vote and "" number of votes
     
- The winnr of the election was 
+ The winner of the election was 
   "" who received '' of the vote and '' number of votes.
   
 Challenge Overview 
